@@ -8,8 +8,6 @@ Progetto finale Programmazione Procedurale UniPG Informatica
 
 ## Cognome: Hlade
 
-## Matricola: 367587
-
 ## Commenti/modifiche al progetto:
 
 Il giocatore termina il suo turno solamente quando avanza, indietreggia, prende il tesoro.
