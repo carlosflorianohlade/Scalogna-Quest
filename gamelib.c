@@ -415,7 +415,6 @@ static void scegli_classe(Giocatore *giocatore)
         break;
     }
 }
-#include <stdio.h>
 
 static void aumenta_sacrifica(Giocatore *giocatore)
 {
